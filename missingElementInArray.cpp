@@ -1,4 +1,4 @@
-//find the missing elements in an array 
+//find the missing elements in an array without Hash 
 
 #include <iostream>
 #include<vector>
